@@ -4,4 +4,4 @@ An shell based DNA Expression tool written in Rust for an Intro to Bio Lab Proje
 - DNA Transcription
 - RNA Translation
 - DNA Expression (both Transcription and Translation)
-Codons are read from a csv file named 'amino_table.txt`
+Codons are read from a csv file named `amino_table.txt`
